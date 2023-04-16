@@ -17,4 +17,5 @@ public class User {
     private int age;
     private String password;
     private String alias;
+    private String token;
 }
