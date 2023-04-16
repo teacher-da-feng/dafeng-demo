@@ -14,7 +14,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void deleteUser(int age) {
-
+        System.out.println("grd");
     }
 
     @Override
