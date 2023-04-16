@@ -13,6 +13,11 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
+    public void deleteUser(String username, String password) {
+
+    }
+
+    @Override
     public void updateUser(String username, String password) {
 
     }
