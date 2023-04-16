@@ -11,14 +11,4 @@ public class UserServiceImpl implements UserService {
     public void addUser(String username) {
 
     }
-
-    @Override
-    public void deleteUser(String username,String password) {
-
-    }
-
-    @Override
-    public void updateUser(String username, String password) {
-
-    }
 }

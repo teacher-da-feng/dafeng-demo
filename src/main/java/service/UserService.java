@@ -7,8 +7,4 @@ package service;
 public interface UserService {
 
     void addUser(String username);
-
-    void deleteUser(String  username,String password);
-
-    void updateUser(String username, String password);
 }
