@@ -6,5 +6,10 @@ package service;
  */
 public interface UserService {
 
-    void addUser(String username);
+    void addUser(String username,String password);
+
+    void deleteUser(String  username,String password);
+
+    void updateUser(String username, String password);
+
 }
